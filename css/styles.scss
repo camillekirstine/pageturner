@@ -4,6 +4,7 @@
 
 body {
 	margin: 0;
+	background-color: #e3ecff;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -31,3 +32,39 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+.nav-link {
+	font-size: 1.5rem;
+	color: #eef1fa;
+	font-family: dapifer, bold;
+}
+
+.nav-link:hover {
+	font-size: 1.6rem;
+	color: #e5b9a1;
+}
+
+.navbar-toggler {
+	outline: none;
+}
+
+.logopic {
+	width: 30%;
+}
+
+.navbar-togglefa {
+	color:#eef1fa ;
+	font-size: 2rem;
+	border: none;
+}
+
+.closebtn {
+	color: #eef1fa;
+	background-color: transparent;
+	border: none;
+	font-size: 2rem;
+}
+
+
+
+
